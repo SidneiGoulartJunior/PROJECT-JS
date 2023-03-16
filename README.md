@@ -1,12 +1,13 @@
-<h1><b>Projeto Conversor de moeda<b><h1>
+<h1 align="center"><b>Projeto Conversor de moeda<b></h1>
 <br>
-<p>Finalizando o módulo de Javascript no <a href="https://rodolfomori.com.br/devclub/">DevClub <img src="https://rodolfomori.com.br/wp-content/uploads/elementor/thumbs/LOGO_1-pl6s0w83bob17fyv2myc9hccfjkrd6md916y3lfbcg.png" width="45px" alt="logo-dev"><a/><p>
+<h2>Finalizando o módulo de Javascript no <a href="https://rodolfomori.com.br/devclub/">DevClub </a></h2>
 <br>
 <br>  
-  <p text-align="center">Tecnologias utilizadas:</p>
-  <p>- HTML</p>
-  <p>- CSS</p>
-  <p>- Javascript<p>
+  <p>🖥️Tecnologias utilizadas:</p><br>
+  
+-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
+-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
+-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-js"/>
   <br>
   
   <br>
